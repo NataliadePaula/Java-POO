@@ -1,2 +1,2 @@
 # Java-POO
-Aplicação de compras cpm limite de valor
+Aplicação de compras com limite de valor
